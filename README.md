@@ -362,8 +362,6 @@ cmake --build cmake-out -- -j 4
 ```
 
 You will find compiled binaries in `cmake-out/` respective to their source paths.
-You will find compiled binaries in `cmake-out/` respective to their source
-paths.
 
 If you prefer to compile against installed versions of the dependencies please
 check the [INSTALL.md file](INSTALL.md).
